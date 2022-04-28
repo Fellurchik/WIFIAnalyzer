@@ -2,6 +2,8 @@
 
 #define CMD "netsh wlan show networks mode=bssid > wlan.txt"
 
+#define WINDOWS
+
 struct ap
 {
 	char apmac[20];

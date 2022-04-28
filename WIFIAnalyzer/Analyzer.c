@@ -6,6 +6,14 @@
 
 int main(void)
 {
+#ifdef WINDOWS
+	HANDLE h = GetStdHandle(STD_OUTPUT_HANDLE);
+	DWORD mode = 0;
+	GetConsoleMode(h, &mode);
+	mode |= ENABLE_VIRTUAL_TERMINAL_PROCESSING;
+	SetConsoleMode(h, mode);
+#endif
+
 	system(CMD);
 	FILE* fp = fopen("wlan.txt", "r");
 

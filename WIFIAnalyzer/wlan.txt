@@ -1,120 +1,15 @@
  
 Interface name : ???????????? ???? 
-There are 10 networks currently visible. 
+There are 1 networks currently visible. 
 
-SSID 1 : 
-    Network type            : Infrastructure
-    Authentication          : Open
-    Encryption              : None 
-    BSSID 1                 : fa:8f:ca:56:84:03
-         Signal             : 89%  
-         Radio type         : 802.11n
-         Channel            : 6 
-         Basic rates (Mbps) : 1 2 5.5 11
-         Other rates (Mbps) : 6 9 12 18 24 36 48 54
-
-SSID 2 : Legenda Dotki
+SSID 1 : MyFi
     Network type            : Infrastructure
     Authentication          : WPA2-Personal
     Encryption              : CCMP 
-    BSSID 1                 : 9c:9d:7e:82:76:fb
-         Signal             : 75%  
-         Radio type         : 802.11n
-         Channel            : 6 
-         Basic rates (Mbps) : 1 2 5.5 11
-         Other rates (Mbps) : 6 9 12 18 24 36 48 54
-
-SSID 3 : StudentSurvival-162
-    Network type            : Infrastructure
-    Authentication          : WPA2-Personal
-    Encryption              : CCMP 
-    BSSID 1                 : 04:95:e6:4a:4a:a8
-         Signal             : 90%  
-         Radio type         : 802.11n
-         Channel            : 8 
-         Basic rates (Mbps) : 1 2 5.5 11
-         Other rates (Mbps) : 6 9 12 18 24 36 48 54
-
-SSID 4 : Martin Router King
-    Network type            : Infrastructure
-    Authentication          : WPA2-Personal
-    Encryption              : CCMP 
-    BSSID 1                 : 36:f3:9a:5c:a3:a0
-         Signal             : 35%  
-         Radio type         : 802.11n
-         Channel            : 11 
-         Basic rates (Mbps) : 1 2 5.5 6 11 12 24
-         Other rates (Mbps) : 9 18 36 48 54
-
-SSID 5 : Legenda Dotki_5G
-    Network type            : Infrastructure
-    Authentication          : WPA2-Personal
-    Encryption              : CCMP 
-    BSSID 1                 : 9c:9d:7e:82:76:fc
-         Signal             : 43%  
-         Radio type         : 802.11ac
-         Channel            : 44 
-         Basic rates (Mbps) : 6 12 24
-         Other rates (Mbps) : 9 18 36 48 54
-
-SSID 6 : AirLink2b1ee8
-    Network type            : Infrastructure
-    Authentication          : WPA2-Personal
-    Encryption              : CCMP 
-    BSSID 1                 : 34:21:09:2b:1e:e8
-         Signal             : 96%  
-         Radio type         : 802.11n
-         Channel            : 6 
-         Basic rates (Mbps) : 1 2
-         Other rates (Mbps) : 5.5 6 9 11 12 18 24 36 48 54
-
-SSID 7 : MyFi
-    Network type            : Infrastructure
-    Authentication          : WPA2-Personal
-    Encryption              : CCMP 
-    BSSID 1                 : 74:45:2d:ce:9d:a8
-         Signal             : 95%  
-         Radio type         : 802.11ax
-         Channel            : 1 
-         Basic rates (Mbps) : 1 2 5.5 11
-         Other rates (Mbps) : 6 9 12 18 24 36 48 54
-    BSSID 2                 : 74:45:2d:ce:9d:ac
-         Signal             : 91%  
+    BSSID 1                 : 74:45:2d:ce:9d:ac
+         Signal             : 88%  
          Radio type         : 802.11ax
          Channel            : 100 
          Basic rates (Mbps) : 6 12 24
          Other rates (Mbps) : 9 18 36 48 54
-
-SSID 8 : TP-Link_7A6C
-    Network type            : Infrastructure
-    Authentication          : WPA2-Personal
-    Encryption              : CCMP 
-    BSSID 1                 : 60:32:b1:53:7a:6c
-         Signal             : 93%  
-         Radio type         : 802.11n
-         Channel            : 1 
-         Basic rates (Mbps) : 1 2 5.5 11
-         Other rates (Mbps) : 6 9 12 18 24 36 48 54
-
-SSID 9 : 
-    Network type            : Infrastructure
-    Authentication          : WPA2-Personal
-    Encryption              : CCMP 
-    BSSID 1                 : 74:45:2d:ce:9d:ad
-         Signal             : 95%  
-         Radio type         : 802.11ax
-         Channel            : 1 
-         Basic rates (Mbps) : 1 2 5.5 11
-         Other rates (Mbps) : 6 9 12 18 24 36 48 54
-
-SSID 10 : DNA-Mokkula-2G-JhHHHy
-    Network type            : Infrastructure
-    Authentication          : WPA2-Personal
-    Encryption              : CCMP 
-    BSSID 1                 : b0:c1:9e:51:29:7d
-         Signal             : 65%  
-         Radio type         : 802.11n
-         Channel            : 1 
-         Basic rates (Mbps) : 1 2 5.5 11
-         Other rates (Mbps) : 6 9 12 18 24 36 48 54
 

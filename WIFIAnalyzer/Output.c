@@ -22,4 +22,6 @@ void full_out(int NumAp)
 		};
 		printf("\n\n------------------------------------------------------");
 	};
+	printf("\n");
+	system("pause");
 }
